@@ -25,14 +25,21 @@ Super Saiyan Scroll is an immersive web experience inspired by Dragon Ball Super
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 ⚛️ React.js – Component-based UI framework
+
 🎭 GSAP – High-performance animations
+
 🎨 Tailwind CSS – Utility-first styling
+
 ⚡ Vite – Lightning-fast frontend tooling
 
 ## <a name="features">🔋 Features</a>
 
 🔥 Scroll-Based Animations – Dynamic effects triggered by scrolling
+
 ⚡ Energy-Powered Transitions – Inspired by DBZ’s high-speed action
+
 💨 3D Hover Effects – Interactive transformations for an engaging UI
+
 🎥 Cinematic Video Transitions – Seamless storytelling elements
+
 📱 Fully Responsive – Optimized for all screen sizes
